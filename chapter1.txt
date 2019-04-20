@@ -1,1 +1,3 @@
 This web development thing is actually pretty fun!
+
+I had my first local server-side applications..
